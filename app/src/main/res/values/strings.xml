@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">To Do App</string>
+    <string name="back_button">Back</string>
+    <string name="add_task">Add Task</string>
+    <string name="no_item_description">Oops!\nNo items in the inventory.\nTap + to add.</string>
+</resources>
